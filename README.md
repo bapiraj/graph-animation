@@ -10,7 +10,7 @@ Install the dependencies by executing the following command:
 pip install -r requirements.txt
 ```
 
-Run the game by executimg the following command:
+Run the animation by executing the following command:
 
 ```
 python main.py
